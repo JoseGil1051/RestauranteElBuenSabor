@@ -1,5 +1,8 @@
+Logica\CalculadoraFactura.class
+Modelos\Factura.class
+Modelos\Producto.class
 com\mycompany\restauranteelbuensabor\RestauranteElBuenSabor.class
-com\mycompany\restauranteelbuensabor\Datos.class
-com\mycompany\restauranteelbuensabor\Imprimir.class
-com\mycompany\restauranteelbuensabor\Utilidades.class
-com\mycompany\restauranteelbuensabor\Proceso.class
+Modelos\DetallePedido.class
+Repositorio\Datos.class
+Presentacion\Imprimir.class
+Modelos\Pedido.class
